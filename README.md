@@ -18,3 +18,5 @@ This project leverages the ALLAM model to create an Arabic AI assistant designed
 ________________________________________________________________________________________________________________________________________________________________________________
 This project represents an innovative approach to language learning by combining the power of AI with the rich cultural and linguistic heritage of the Arabic language, helping young learners build strong foundations in Arabic.
 ________________________________________________________________________________________________________________________________________________________________________________
+
+Demo : https://huggingface.co/spaces/Rama-Alyoubi/AllamDemo
