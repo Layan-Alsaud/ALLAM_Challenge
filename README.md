@@ -17,10 +17,10 @@ Fun and Engaging Content: The storytelling format incorporates cultural referenc
 By using AI to deliver structured language lessons in a friendly format, the Arabic AI assistant aims to spark curiosity and build foundational skills in Arabic language for children.
 
 ## How It Works
-1.User Input: The child initiates the conversation with the AI assistant by asking questions or selecting a story theme.
-2.Story-Based Learning: The assistant narrates stories embedded with language rules, providing explanations and examples.
-3.Interactive Exercises: Throughout the story, the assistant pauses to ask questions, reinforcing the rules and concepts presented.
-4.Progressive Learning: The assistant tracks the child’s progress, offering new challenges as they become more proficient.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User Input: The child initiates the conversation with the AI assistant by asking questions or selecting a story theme.
+Story-Based Learning: The assistant narrates stories embedded with language rules, providing explanations and examples.
+Interactive Exercises: Throughout the story, the assistant pauses to ask questions, reinforcing the rules and concepts presented.
+Progressive Learning: The assistant tracks the child’s progress, offering new challenges as they become more proficient.
+________________________________________________________________________________________________________________________________________________________________________________
 This project represents an innovative approach to language learning by combining the power of AI with the rich cultural and linguistic heritage of the Arabic language, helping young learners build strong foundations in Arabic.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+________________________________________________________________________________________________________________________________________________________________________________
